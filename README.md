@@ -28,4 +28,4 @@ The data dictionary provided with data as follows:
 - And as a result, Ebay Car Sales site experienced the most number of visitors on 2016-04-06 which is same as the date the most listing created and most crawled. -> I guess 2016-04-06 offered some special oppotunities between customers and seller on Ebay  
 - Based on registration year data, we achieve that number of cars registerd the first 50 years before 2018 accounts for nearly 99,6%
 - From 2008 to 2018 saw a vast majority of buyers earning for cars which is around 75,8% over the total one
-- As we can see, the **average difference** between these **brand's prices** is around \$1000 and **'audi'** is the **most expensive** brand in this industry while the mean value **maximum traveling distance (odometer_km)** of 'audi' and 'opel', which is the lowest mean's price in top 6, are nearly **the same**
+- As we can see, the **average difference** between these **brand's prices** is around \$1000 and **'audi'** is the **most expensive** brand in this industry while the mean value of **maximum traveling distance (odometer_km)** of 'audi' and 'opel' are nearly **the same**
